@@ -64,7 +64,7 @@ class Solution{
         }
         return maxi;
     }
-} 
+}; 
 
 
 ///Follow Up Question

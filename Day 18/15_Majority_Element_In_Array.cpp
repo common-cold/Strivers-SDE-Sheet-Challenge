@@ -21,8 +21,8 @@ class Solution{
 
 
 ///Batter Solution
-///T.C = O(N)
-///S.C = O(1)
+///T.C = O(N * Log N)
+///S.C = O(N) (worst case)
 
 class Solution{
   public:
